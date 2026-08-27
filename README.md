@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7C3AED&center=true&vCenter=true&width=660&lines=Production+ML+on+Azure+Databricks.+Not+just+notebooks.;30M%2B+member+records.+PySpark.+Delta+Lake.+MLflow.;LLM+scoring+systems+%C2%B7+Anomaly+detection+%C2%B7+MLOps;MSc+Data+Science+%26+AI+%C2%B7+GPA+4.0+%C2%B7+Dubai%2C+UAE" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7C3AED&center=true&vCenter=true&width=660&lines=Production+ML+on+Azure+Databricks.+Not+just+notebooks.;30M%2B+member+records.+PySpark.+Delta+Lake.+MLflow.;LLM+scoring+systems+%C2%B7+Forecasting+%C2%B7+Segmentation+%C2%B7+MLOps;MSc+Data+Science+%26+AI+%C2%B7+GPA+4.0+%C2%B7+Dubai%2C+UAE" alt="Typing intro" />
 </p>
 
 ---
