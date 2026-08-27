@@ -97,8 +97,11 @@ class Marvis:
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marvisrego&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E40AF&icon_color=0EA5E9&text_color=ffffff&count_private=true" alt="Marvis's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvisrego&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E40AF&text_color=ffffff" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=marvisrego&theme=tokyonight&hide_border=true&background=0D1117&ring=1E40AF&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvisrego&theme=tokyo-night&bg_color=0D1117&color=0EA5E9&line=1E40AF&point=ffffff&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
