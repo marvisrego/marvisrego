@@ -94,18 +94,6 @@ class Marvis:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marvisrego&theme=tokyonight&hide_border=true&background=0D1117&ring=1E40AF&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvisrego&theme=tokyo-night&bg_color=0D1117&color=0EA5E9&line=1E40AF&point=ffffff&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
 ## Certifications
 
 <p align="center">
