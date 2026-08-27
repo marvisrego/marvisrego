@@ -1,23 +1,22 @@
 <!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:0EA5E9&height=190&section=header&text=MARVIS%20STEWART%20REGO&fontSize=40&fontColor=ffffff&fontAlignY=34&desc=ML%20Engineer%20%C2%B7%20Azure%20Databricks%20%C2%B7%20LLMs%20%C2%B7%20Production%20AI&descAlignY=54&descSize=16&animation=fadeIn" alt="Marvis Stewart Rego banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:0891B2&height=190&section=header&text=MARVIS%20STEWART%20REGO&fontSize=40&fontColor=ffffff&fontAlignY=34&desc=ML%20Engineer%20%C2%B7%20Azure%20Databricks%20%C2%B7%20LLMs%20%C2%B7%20Production%20AI&descAlignY=54&descSize=16&animation=fadeIn" alt="Marvis Stewart Rego banner" />
 </p>
 
 <p align="center">
   <a href="https://marvis-portfolio-phi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-marvis--portfolio-1E40AF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
+    <img src="https://img.shields.io/badge/-Portfolio-4C1D95?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/marvis-stewart-rego-data-science/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0891B2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:mail4marvis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-mail4marvis%40gmail.com-6D28D9?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=marvisrego&label=Profile%20views&color=1E40AF&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=1E40AF&center=true&vCenter=true&width=660&lines=Production+ML+on+Azure+Databricks.+Not+just+notebooks.;30M%2B+member+records.+PySpark.+Delta+Lake.+MLflow.;LLM+scoring+systems+%C2%B7+Anomaly+detection+%C2%B7+MLOps;MSc+Data+Science+%26+AI+%C2%B7+GPA+4.0+%C2%B7+Dubai%2C+UAE" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7C3AED&center=true&vCenter=true&width=660&lines=Production+ML+on+Azure+Databricks.+Not+just+notebooks.;30M%2B+member+records.+PySpark.+Delta+Lake.+MLflow.;LLM+scoring+systems+%C2%B7+Anomaly+detection+%C2%B7+MLOps;MSc+Data+Science+%26+AI+%C2%B7+GPA+4.0+%C2%B7+Dubai%2C+UAE" alt="Typing intro" />
 </p>
 
 ---
@@ -64,17 +63,17 @@ class Marvis:
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-1E40AF?style=flat-square" />
-  <img src="https://img.shields.io/badge/MLOps-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-4C1D95?style=flat-square" />
+  <img src="https://img.shields.io/badge/MLOps-0891B2?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6B35?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-1E40AF?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-0EA5E9?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-6D28D9?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-4C1D95?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-0891B2?style=flat-square" />
   <img src="https://img.shields.io/badge/Anomaly%20Detection-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0E7490?style=flat-square" />
 </p>
 
 <p align="center">
@@ -98,8 +97,8 @@ class Marvis:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Databricks-Gen%20AI%20Certification%202026-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Data%20Science-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-86BC25?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Data%20Science-0891B2?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-4C1D95?style=flat-square" />
 </p>
 
 ---
@@ -112,11 +111,11 @@ class Marvis:
 
 <p align="center">
   <a href="mailto:mail4marvis@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20talk-mail4marvis%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Let's%20talk-6D28D9?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:0EA5E9&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:0891B2&height=120&section=footer" alt="footer" />
 </p>
