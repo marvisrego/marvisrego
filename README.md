@@ -72,7 +72,8 @@ class Marvis:
   <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-4C1D95?style=flat-square" />
   <img src="https://img.shields.io/badge/NLP-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Anomaly%20Detection-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Forecasting%20Models-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Segmentation-0F766E?style=flat-square" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-0E7490?style=flat-square" />
 </p>
 
