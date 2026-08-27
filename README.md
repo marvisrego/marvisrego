@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://marvis-portfolio-phi.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-4C1D95?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-marvis--portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/marvis-stewart-rego-data-science/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0891B2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:mail4marvis@gmail.com">
-    <img src="https://img.shields.io/badge/-mail4marvis%40gmail.com-6D28D9?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say%20hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
