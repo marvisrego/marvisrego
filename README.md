@@ -106,7 +106,6 @@ class Marvis:
 
 ## Currently
 
-- Building ML observability tooling and automated drift detection in production at GHA
 - Completing MSc Data Science & AI at Middlesex University Dubai (graduating June 2026)
 - Open to **ML Engineer**, **AI Engineer**, and **Data Science** roles
 
