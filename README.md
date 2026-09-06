@@ -106,7 +106,7 @@ class Marvis:
 
 ## Currently
 
-- Completing MSc Data Science & AI at Middlesex University Dubai (graduating June 2026)
+- Completing MSc Data Science & AI at Middlesex University Dubai.
 - Open to **ML Engineer**, **AI Engineer**, and **Data Science** roles
 
 <p align="center">
