@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title description">
+  <title id="title">Marvis Stewart Rego | Production ML on Databricks</title>
+  <desc id="description">Machine Learning Engineer. A workflow connects feature engineering, training and tracking, and scoring and monitoring.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F172A" />
+      <stop offset="1" stop-color="#312E81" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" />
+      <stop offset="0.5" stop-color="#A78BFA" />
+      <stop offset="1" stop-color="#FB7185" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="20" fill="url(#background)" />
+  <rect x="64" y="347" width="1072" height="4" rx="2" fill="url(#accent)" />
+
+  <g id="identity" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="64" y="57" fill="#38BDF8" font-size="22" font-weight="600" letter-spacing="2">MACHINE LEARNING ENGINEER</text>
+    <text x="64" y="115" fill="#F8FAFC" font-size="44" font-weight="600">Marvis Stewart Rego</text>
+  </g>
+
+  <g id="focus" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="76" font-weight="700" letter-spacing="-2">
+    <text x="60" y="225" fill="#F8FAFC">Production ML</text>
+    <text x="60" y="313" fill="#5EEAD4">on Databricks.</text>
+  </g>
+
+  <g id="ml-workflow" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <path d="M820 187 V307" fill="none" stroke="#A78BFA" stroke-width="2" />
+    <g fill="#0F172A" stroke-width="3">
+      <circle cx="820" cy="187" r="7" stroke="#38BDF8" />
+      <circle cx="820" cy="247" r="7" stroke="#A78BFA" />
+      <circle cx="820" cy="307" r="7" stroke="#FB7185" />
+    </g>
+    <g fill="#CBD5E1" font-size="24" font-weight="500">
+      <text x="846" y="195" fill="#38BDF8">Features</text>
+      <text x="846" y="255" fill="#C4B5FD">Train + track</text>
+      <text x="846" y="315" fill="#FDA4AF">Score + monitor</text>
+    </g>
+  </g>
+</svg>

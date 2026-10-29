@@ -1,121 +1,119 @@
-<!-- ==================== BANNER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:0891B2&height=190&section=header&text=MARVIS%20STEWART%20REGO&fontSize=40&fontColor=ffffff&fontAlignY=34&desc=ML%20Engineer%20%C2%B7%20Azure%20Databricks%20%C2%B7%20LLMs%20%C2%B7%20Production%20AI&descAlignY=54&descSize=16&animation=fadeIn" alt="Marvis Stewart Rego banner" />
+  <img src="./assets/readme/hero.svg" width="100%" alt="Marvis Stewart Rego, Machine Learning Engineer. Production ML on Databricks: features, training, scoring, and monitoring." />
 </p>
 
 <p align="center">
-  <a href="https://marvis-portfolio-phi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-marvis--portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/marvis-stewart-rego-data-science/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mail4marvis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://marvis-portfolio-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://linkedin.com/in/marvis-stewart-rego-data-science/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:mail4marvis@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-E11D48?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=7C3AED&center=true&vCenter=true&width=660&lines=Production+ML+on+Azure+Databricks.+Not+just+notebooks.;30M%2B+member+records.+PySpark.+Delta+Lake.+MLflow.;LLM+scoring+systems+%C2%B7+Forecasting+%C2%B7+Segmentation+%C2%B7+MLOps;MSc+Data+Science+%26+AI+%C2%B7+GPA+4.0+%C2%B7+Dubai%2C+UAE" alt="Typing intro" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/typing.svg" />
+    <img src="./assets/readme/typing.gif" width="100%" alt="Typing animation: Production ML on Databricks." />
+  </picture>
 </p>
 
----
+## 👋 About me
 
-## About
+I'm **Marvis Stewart Rego**, a **Machine Learning Engineer based in Dubai, UAE**. I build production ML on Databricks, from feature engineering and model training to batch scoring and monitoring. My work spans forecasting, segmentation, LLM scoring, and ML observability.
 
-I build ML systems that run in production and stay there: end-to-end pipelines on Azure Databricks, LLM-powered scoring, automated observability, and feature engineering across tens of millions of records.
+- Previously a **Machine Learning Engineer at Global Hotel Alliance**, working with marketing and finance teams.
+- **MSc in Data Science and Artificial Intelligence, completed**, Middlesex University Dubai. **GPA: 4.0**.
+- Open to **ML Engineer**, **AI Engineer**, and **Data Science** roles.
 
-- Currently shipping production ML at **Global Hotel Alliance** — MLflow, Delta Lake, PySpark, LLM scoring
-- Completing MSc in Data Science and AI at **Middlesex University Dubai** (GPA: 4.0, graduating June 2026)
-- My day is mostly Python and SQL; I care about what happens after the model is deployed
-- Based in Dubai, UAE
+## 🛠️ Tech stack
 
-```python
-class Marvis:
-    role     = "ML Engineer @ Global Hotel Alliance"
-    stack    = ["Python", "PySpark", "SQL", "Azure Databricks"]
-    building = ["LLM scoring systems", "ML observability", "ETL pipelines"]
-    studying  = "MSc Data Science & AI — GPA 4.0"
+### Data and Databricks
 
-    def approach(self, problem):
-        # the model is almost never the bottleneck
-        return engineer(features) >> train >> monitor >> iterate
-```
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,r,postgres,mysql,azure,aws,gcp,docker,git,github&theme=dark" />
+<p>
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Azure Databricks" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/PySpark-F97316?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Delta_Lake-0891B2?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&amp;logo=mlflow&amp;logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Workflows-7C3AED?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Databricks Workflows" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks%20Workflows-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+### Languages and analysis
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-0284C7?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature%20Engineering-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/MLOps-0891B2?style=flat-square" />
+### Machine learning and generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge" alt="Large language models" />
+  <img src="https://img.shields.io/badge/RAG-DB2777?style=for-the-badge" alt="Retrieval-augmented generation" />
+  <img src="https://img.shields.io/badge/NLP-0891B2?style=for-the-badge" alt="Natural language processing" />
+  <img src="https://img.shields.io/badge/Forecasting-2563EB?style=for-the-badge" alt="Forecasting" />
+  <img src="https://img.shields.io/badge/Segmentation-059669?style=for-the-badge" alt="Segmentation" />
+  <img src="https://img.shields.io/badge/ML_Observability-E11D48?style=for-the-badge" alt="ML observability and drift detection" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge" alt="Prompt engineering" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-6D28D9?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Forecasting%20Models-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Segmentation-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-0E7490?style=flat-square" />
+### Cloud and delivery
+
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="Amazon Web Services" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
+## 🚀 Selected personal projects
 
----
+### [DreamTrip](https://github.com/marvisrego/DreamTrip)
 
-## Selected Work
+A travel-planning app that turns a prompt into destination suggestions and day-by-day itineraries, with live travel context when search is enabled.
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| **DreamTrip** | LLM travel platform — real-time RAG itinerary generation with geospatial visualisation | Nvidia NeMo, Tavily RAG, AWS S3/CloudFront, React |
-| **GraphRAG Career Advisor** | Career chatbot over ONET+ESCO knowledge graph (22K nodes, 235K edges) with semantic reranking | GPT, Cohere Rerank, NetworkX, Flask |
-| **AI Code Review Bot** | Automated PR reviewer via GitHub Actions — AI feedback on bugs, security, and performance | Python, GitHub Actions, GitHub Models API |
+**Built with:** NVIDIA Nemotron, Tavily, React.
 
----
+### [GraphRAG Career Advisor](https://github.com/marvisrego/KnowledgeGraph_Recommendation)
 
-## Certifications
+A career-guidance chatbot that combines an O*NET and ESCO knowledge graph with semantic retrieval and reranking to explain role recommendations and skill gaps.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Databricks-Gen%20AI%20Certification%202026-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Data%20Science-0891B2?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deloitte-Data%20Analytics%20Simulation-4C1D95?style=flat-square" />
-</p>
+**Built with:** Python, Flask, NetworkX, Qdrant, Cohere Rerank.
 
----
+### AI Code Review Bot
 
-## Currently
+An automated pull-request reviewer that checks code for bugs, security issues, and performance concerns through GitHub Actions.
 
+**Built with:** Python, GitHub Actions, GitHub Models API.
 - Completing MSc Data Science & AI at Middlesex University Dubai.
 - Open to **ML Engineer**, **AI Engineer**, and **Data Science** roles
 
-<p align="center">
-  <a href="mailto:mail4marvis@gmail.com">
-    <img src="https://img.shields.io/badge/-Let's%20talk-6D28D9?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+## ⚙️ Production experience
+
+At **Global Hotel Alliance**, I worked on:
+
+- **Predictive ML:** member activation models, behavioural segmentation, and loyalty-points redemption forecasting for liability planning.
+- **LLM scoring:** property-description analysis for luxury and interest labels, supporting marketing personalisation.
+- **ML observability:** reusable drift detection, data quality checks, and performance alerting across production use cases.
+- **Pipelines and lifecycle:** PySpark feature engineering, Delta Lake tables, MLflow tracking, and scheduled Databricks workflows.
+
+## 🎓 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Databricks-Generative_AI_2026-FF3621?style=for-the-badge&amp;logo=databricks&amp;logoColor=white" alt="Databricks Academy Generative AI Certification, 2026" />
+  <img src="https://img.shields.io/badge/Cisco-Data_Science-049FD9?style=for-the-badge&amp;logo=cisco&amp;logoColor=white" alt="Cisco Introduction to Data Science" />
+  <img src="https://img.shields.io/badge/Deloitte-Data_Analytics-65A30D?style=for-the-badge" alt="Deloitte Australia Data Analytics Job Simulation" />
 </p>
 
-<!-- ==================== FOOTER ==================== -->
+---
+
+<p align="center"><strong>Let's build something useful.</strong></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:0891B2&height=120&section=footer" alt="footer" />
+  <a href="mailto:mail4marvis@gmail.com"><img src="https://img.shields.io/badge/Open_to_opportunities-Let's_talk-0D9488?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Open to ML Engineer, AI Engineer, and Data Science roles. Email me." /></a>
 </p>
