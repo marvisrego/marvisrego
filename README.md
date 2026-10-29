@@ -91,6 +91,8 @@ A career-guidance chatbot that combines an O*NET and ESCO knowledge graph with s
 An automated pull-request reviewer that checks code for bugs, security issues, and performance concerns through GitHub Actions.
 
 **Built with:** Python, GitHub Actions, GitHub Models API.
+- Completing MSc Data Science & AI at Middlesex University Dubai.
+- Open to **ML Engineer**, **AI Engineer**, and **Data Science** roles
 
 ## ⚙️ Production experience
 
