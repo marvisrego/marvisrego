@@ -8,13 +8,6 @@
   <a href="mailto:mail4marvis@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-E11D48?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me" /></a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/readme/typing.svg" />
-    <img src="./assets/readme/typing.gif" width="100%" alt="Typing animation: Production ML on Databricks." />
-  </picture>
-</p>
-
 ## 👋 About me
 
 I'm **Marvis Stewart Rego**, a **Machine Learning Engineer based in Dubai, UAE**. I build production ML on Databricks, from feature engineering and model training to batch scoring and monitoring. My work spans forecasting, segmentation, LLM scoring, and ML observability.
